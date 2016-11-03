@@ -1,0 +1,44 @@
+tile.blockNexus.name=Nexus
+
+item.phaseCrystal.name=Phase Crystal
+item.riftFlux.name=Rift Flux
+
+item.nexusCatalyst.name=Nexus Catalyst
+item.infusedSword.name=Infused Sword
+item.searingBow.name=Searing Bow
+item.catalystMixture.name=Catalyst Mixture
+item.stableCatalystMixture.name=Stable Catalyst Mixture
+item.stableNexusCatalyst.name=Stable Nexus Catalyst
+item.dampingAgent.name=Damping Agent
+item.strongDampingAgent.name=Strong Damping Agent
+item.strangeBone.name=Strange Bone
+item.strongCatalyst.name=Strong Nexus Catalyst
+item.engyHammer.name=Engineers Hammer
+nexusAdjuster.name=Nexus Adjuster
+materialProbe.name=Material Probe
+emptyTrap.name=Empty Trap
+riftTrap.name=Rift Trap (Folded)
+flameTrap.name=Flame Trap (Folded)
+item.smallRemnants.name=Small Remnants
+item.debugWand.name=Debug Wand
+
+itemGroup.invasionTab=Invasion mod
+
+entity.mod_Invasion.IMZombie.name=IM Zombie
+entity.mod_Invasion.IMZombiePigman.name=IM Zombie Pigman
+entity.mod_Invasion.IMSkeleton.name=IM Skeleton
+entity.mod_Invasion.IMSpider.name=IM Spider
+entity.mod_Invasion.IMPigEngy.name=IM Pigman Engineer
+entity.mod_Invasion.IMBird.name=WIP-IM Bird
+entity.mod_Invasion.IMThrower.name=IM Thrower
+entity.mod_Invasion.IMWolf.name=IM Wolf
+entity.mod_Invasion.IMCreeper.name=IM Creeper
+entity.mod_Invasion.IMGiantBird.name=IM Vulture
+entity.mod_Invasion.IMBoulder.name=Boulder
+entity.mod_Invasion.IMEgg.name=Spider Egg
+entity.mod_Invasion.IMTrap.name=Trap
+entity.mod_Invasion.IMImp.name=IM Imp
+
+invmod.waila.status.active=Status: Activated
+invmod.waila.status.deactivated=Status: Deactivated
+invmod.waila.wavenumber=Wave: 

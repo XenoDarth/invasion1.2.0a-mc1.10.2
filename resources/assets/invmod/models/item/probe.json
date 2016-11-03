@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "invmod:items/probe"
+		"layer1": "invmod:items/adjuster"
+	}
+}

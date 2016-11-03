@@ -1,0 +1,11 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"down": "blocks/obsidian",
+		"up": "invmod:blocks/nexusTopOff",
+		"north": "invmod:blocks/nexusSideOff",
+		"south": "invmod:blocks/nexusSideOff",
+		"west": "invmod:blocks/nexusSideOff",
+		"east": "invmod:blocks/nexusSideOff"
+	}
+}

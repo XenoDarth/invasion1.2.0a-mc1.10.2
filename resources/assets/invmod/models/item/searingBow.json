@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "invmod:items/searingBow"
+		"layer1": "invmod:items/sbowc1"
+		"layer2": "invmod:items/sbowc2"
+		"layer3": "invmod:items/sbowc3"
+	}
+}

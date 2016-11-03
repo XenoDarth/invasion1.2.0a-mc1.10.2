@@ -1,0 +1,8 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "invmod:items/trapEmpty"
+		"layer1": "invmod:items/trapPurple"
+		"layer2": "invmod:items/trapRed"
+	}
+}

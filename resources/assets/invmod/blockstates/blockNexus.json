@@ -1,0 +1,47 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"down": "blocks/obsidian",
+			"up": "invmod:blocks/nexusTopOff",
+			"north": "invmod:blocks/nexusSideOff",
+			"south": "invmod:blocks/nexusSideOff",
+			"west": "invmod:blocks/nexusSideOff",
+			"east": "invmod:blocks/nexusSideOff"
+		},
+		"model": "block/cube",
+		"uvlock": true
+	},
+	"variants": {
+		"normal": [{
+
+        }],
+        "inventory": [{
+
+        }],
+		"active" {
+			"true": {
+				"model": "block/cube",
+				"textures": {
+					"down": "blocks/obsidian",
+					"up": "invmod:blocks/nexusTopOn",
+					"north": "invmod:blocks/nexusSideOn",
+					"south": "invmod:blocks/nexusSideOn",
+					"west": "invmod:blocks/nexusSideOn",
+					"east": "invmod:blocks/nexusSideOn"
+				}
+			},
+			"false": {
+				"model": "block/cube",
+				"textures": {
+					"down": "blocks/obsidian",
+					"up": "invmod:blocks/nexusTopOff",
+					"north": "invmod:blocks/nexusSideOff",
+					"south": "invmod:blocks/nexusSideOff",
+					"west": "invmod:blocks/nexusSideOff",
+					"east": "invmod:blocks/nexusSideOff"
+				}
+			}
+		}
+	}
+}
